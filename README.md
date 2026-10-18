@@ -1,1 +1,1 @@
-# SolarFlareAi
+# Solar-Filament-Segmentation
